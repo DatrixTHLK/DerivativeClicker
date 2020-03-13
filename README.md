@@ -1,7 +1,7 @@
 DerivativeClicker
 =================
 
-Github Pages hosted version of Derivative Clicker (This is not my original Project, just trying to learn about idle games from a game I used to play a long time ago. I wanted to mess around with it and see how far I can go.) I won't be asking anyone for feedback as of now.)
+Github Pages hosted version of Derivative Clicker (This is not my original Project, just trying to learn about idle games from a game I used to play a long time ago. I wanted to mess around with it and see how far I can go.) I won't be asking anyone for feedback as of now as this is GZgregs at this point.)
 
 
 Changelog
